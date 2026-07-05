@@ -1,1 +1,1 @@
-Mobile test automation with Appium for Trucaller App
+Mobile test automation with Appium for Truecaller App
